@@ -30,6 +30,9 @@ To build, change to a directory where this file is located, and run `make`. The 
 **Manjaro (Arch) Build:**
 
 * Download dependencies using package manager
+* Clone arch branch which can be found here: 
+```https://github.com/trickory/palladium/tree/arch```
+  
 * Execute the following command to build
 
 ```make -j $(nproc)```
