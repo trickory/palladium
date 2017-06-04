@@ -31,7 +31,8 @@ To build, change to a directory where this file is located, and run `make`. The 
 
 * Download dependencies using package manager *
 * Execute the following command to build *
-'''make -j $(nproc)'''
+
+```make -j $(nproc)```
 
 ### On Windows
 Dependencies: MSVC 2013 or later, CMake 2.8.6 or later, and Boost 1.55 or later. You may download them from:
