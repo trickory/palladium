@@ -29,8 +29,8 @@ To build, change to a directory where this file is located, and run `make`. The 
 
 **Manjaro (Arch) Build:**
 
-* Download dependencies using package manager *
-* Execute the following command to build *
+* Download dependencies using package manager
+* Execute the following command to build
 
 ```make -j $(nproc)```
 
